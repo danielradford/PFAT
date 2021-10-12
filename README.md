@@ -12,4 +12,4 @@ Introduction to EWMA, ARIMA, ACF and statsmodels library.
 Introduction to Modern Portfolio Theory (MPT), Using Sharpe ratio to optimize portfolio. Introduces CAPM
 
 
-Finally, introduces Quantopian platform and Zipline library. Since Quantopian has recently shut down, used BlueShift to code some simple pairs trading stategies using Zinline library opensources by Quantopian.
+Finally, introduces Quantopian platform and Zipline library. Since Quantopian has recently shut down, used BlueShift to code some simple pairs trading stategies using the Zipline library opensourced by Quantopian.
