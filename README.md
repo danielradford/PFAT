@@ -1,2 +1,2 @@
 # PFAT
-Course Projects for Python for Financial Analysis and Algorithmic trading
+Udemy course projects from 'Python for Financial Analysis and Algorithmic trading' 
